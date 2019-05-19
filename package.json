@@ -1,0 +1,14 @@
+{
+  "name": "devopsapp",
+  "version": "1.0.0",
+  "description": "node_git_jenkins_docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "avnish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
